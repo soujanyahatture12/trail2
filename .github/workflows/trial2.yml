@@ -20,3 +20,4 @@ jobs:
     - name: Run tests
       run: |
         python tests.py
+        echo "$(python tests.py)"
