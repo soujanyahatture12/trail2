@@ -11,3 +11,5 @@ def test_sum_negative_numbers():
 
 def test_sum_mixed_numbers():
     assert add(5, -3) == 2
+
+print("It is just a sample test for demo")
